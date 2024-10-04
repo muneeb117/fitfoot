@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "814301144967",
+    "project_id": "fitfootar",
+    "storage_bucket": "fitfootar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814301144967:android:9b214ddbc7851f18365522",
+        "android_client_info": {
+          "package_name": "com.example.fitfoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814301144967-nl80jskrfbeoct682uescnvj51k6mh4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitfoot",
+            "certificate_hash": "e4c3639de05809fc7727caa67ad2ef3c4ac3e0c1"
+          }
+        },
+        {
+          "client_id": "814301144967-aji81j4iga763oo1mar2pn0kide6pk3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFMxJSZcyzdmIo1g3zfnLS9yh_2pv758"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814301144967-aji81j4iga763oo1mar2pn0kide6pk3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "814301144967-lloopajoph2htjjmgsm1tit2etafobfi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitfoot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
